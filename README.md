@@ -1,6 +1,6 @@
 # Installing Opencv
 You will need this library for running the code 
-There are two main ways to install OpenCV for Python:
+.There are two main ways to install OpenCV for Python:
 
 1. Using pip:
 
